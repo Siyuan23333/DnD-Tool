@@ -5,7 +5,7 @@ I plan to create a Python-based local platform for playing DnD adventures. It ai
 - User-Friendly Interface
   - DM side
   - Player side
-- Storage of DM-only Information
+- Storage of DM-Only Information
   - Map
   - Encounters 
 - Storage of Non-Combat Information
